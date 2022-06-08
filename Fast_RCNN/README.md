@@ -1,0 +1,1 @@
+!kaggle datasets download -d sixhky/open-images-bus-trucks/
